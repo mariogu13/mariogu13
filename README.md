@@ -1,4 +1,15 @@
-## Hi there 👋
+## Olá! 👋
+
+Bem-vindos ao meu perfil do github!
+Sou um estudante de Programação Web, atualmente realizando um Curso Técnico em Informática.
+Tenho conhecimentos consideráveis em HTML, CSS e JavaScript. Atualmente estou me aprofundando em JS, enquanto aprendo a biblioteca jQuery.
+
+## Projetos
+Atualmente estão disponíveis dois repositórios, porém novos projetos estão por vir...
+
+### Links
+[Astronomia](https://mariogu13.github.io/astronomia)<br>
+[Página Inicial GTAV](https://mariogu13.github.io/projeto-gta)
 
 <!--
 **mariogu13/mariogu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
