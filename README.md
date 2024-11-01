@@ -5,7 +5,7 @@ Sou um estudante de Programação Web, atualmente realizando um Curso Técnico e
 Tenho conhecimentos consideráveis em HTML, CSS e JavaScript. Atualmente estou me aprofundando em JS, enquanto aprendo a biblioteca jQuery.
 
 ## Projetos
-Atualmente estão disponíveis dois repositórios, porém novos projetos estão por vir...
+Atualmente estão disponíveis três repositórios, porém novos projetos estão por vir...
 
 ### Links
 [Astronomia](https://mariogu13.github.io/astronomia)<br>
