@@ -4,12 +4,13 @@ Sou um estudante de Programação Web, atualmente realizando um Curso Técnico e
 Tenho conhecimentos consideráveis em HTML, CSS e JavaScript. Atualmente estou me aprofundando em JS, enquanto aprendo a biblioteca jQuery.
 
 ## 📊 Projetos
-Atualmente estão disponíveis três repositórios, porém novos projetos estão por vir...
+Atualmente estão disponíveis quatro repositórios, porém novos projetos estão por vir...
 
 ### Links
 [Astronomia](https://mariogu13.github.io/astronomia)<br>
 [Página Inicial GTAV](https://mariogu13.github.io/projeto-gta)<br>
-[Quiz - Bandeiras](https://mariogu13.github.io/quiz-bandeiras)
+[Quiz - Bandeiras](https://mariogu13.github.io/quiz-bandeiras)<br>
+[Lista de Tarefas (to-do-list)](https://mariogu13.github.io/to-do-list)
 
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariogu13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariogu13) 
