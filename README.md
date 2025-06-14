@@ -1,7 +1,8 @@
 # 👋 Olá!
 Bem-vindos ao meu perfil do github! <br>
-Sou um estudante de Programação Web, atualmente realizando um Curso Técnico em Informática. <br>
-Tenho conhecimentos consideráveis em HTML, CSS e JavaScript. Atualmente estou me aprofundando em JS, enquanto aprendo a biblioteca jQuery.
+Sou um estudante de programação, principalmente web. Estou cursando Ciência da Computação.
+<br>
+Tenho conhecimentos consideráveis em HTML, CSS e JavaScript. Atualmente estou estudando a linguagem C.
 
 ## 📊 Projetos
 Atualmente estão disponíveis cinco repositórios, porém novos projetos estão por vir...
