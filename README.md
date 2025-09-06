@@ -16,7 +16,8 @@ Atualmente estão disponíveis os seguintes repositórios:
 
 ### Linguagem C
 [Exercícios Diversos](https://github.com/mariogu13/exercicios-c)<br>
-[Manipulação de Matrizes](https://github.com/mariogu13/operacoes-matrizes)
+[Manipulação de Matrizes](https://github.com/mariogu13/operacoes-matrizes)<br>
+[To-Do-List](https://github.com/mariogu13/lista-tarefas)
 
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariogu13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mariogu13) 
